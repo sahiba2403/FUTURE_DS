@@ -21,3 +21,6 @@ This project analyzes supermarket sales data to understand performance and gener
 
 ## 🎯 Outcome
 Built an interactive dashboard for business insights.
+
+## Author
+Sahiba Kaur Duggal
